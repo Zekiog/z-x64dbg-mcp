@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+vendor/
+zig-out/
+
+# Build outputs
+build/
+dist/
+*.obj
+*.o
+*.pdb
+*.exe
+*.dll
+*.dp32
+*.dp64
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Config
+.env
+.env.local
+config.local.json
+
+# Test
+coverage/
+*.test
