@@ -1,5 +1,11 @@
 # Z-x64dbg-MCP Server
 
+
+<!-- BADGES-START -->
+[![CI](https://github.com/Zekiog/z-x64dbg-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Zekiog/z-x64dbg-mcp/actions/workflows/ci.yml)
+![License](https://img.shields.io/github/license/Zekiog/z-x64dbg-mcp)
+![Last commit](https://img.shields.io/github/last-commit/Zekiog/z-x64dbg-mcp)
+<!-- BADGES-END -->
 **Merged & Optimized x64dbg MCP Server** - Combining the best of `duty1g/x64dbg-mcp-server` (71 tools, Zig) and `bromoket/x64dbg_mcp` (23 mega-tools, TypeScript) into a unified, high-performance reverse engineering platform.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
